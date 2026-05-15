@@ -28,10 +28,9 @@ It simulates a real-world cybersecurity monitoring system using the **CICIDS2017
 - ☁️ Fully containerized architecture (Docker / Docker Compose)  
 
 ---
-
 ## 🏗️ System Architecture
 
----
+Data → Preprocessing → ML Model → Flask API → Streamlit Dashboard
 
 ## 🚀 How to Run
 
